@@ -1,0 +1,4 @@
+# block-synth
+Commit 7
+Date: 2024-06-28T14:16:28Z
+Improve error handling
